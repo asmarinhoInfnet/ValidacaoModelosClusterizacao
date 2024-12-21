@@ -1,0 +1,10 @@
+scikit-learn
+yellowbrick
+hdbscan
+clusterval
+seaborn
+scipy
+pandas
+matplotlib.pyplot
+numpy
+tqdm.auto
